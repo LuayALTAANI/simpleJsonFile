@@ -25,6 +25,17 @@
         "clover honey"
       ],
       "image" : "https://luayaltaani.github.io/simpleJsonFile/images/peach-mango.svg"
+    },
+    {
+      "name" : "strawberry sprinkle",
+      "calories" : 350,
+      "type" : "ice cream",
+      "ingredients" : [
+        "strawberries",
+        "vanilla ice cream",
+        "sprinkles"
+      ],
+      "image" : "https://luayaltaani.github.io/simpleJsonFile/images/strawberry-sprinkle.svg"
     }
   ]
 }
